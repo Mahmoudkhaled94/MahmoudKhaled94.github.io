@@ -16,3 +16,6 @@
     margin: 10px; */
     background-color: #ffff99;
 }
+body.modal-open {
+    overflow: visible;
+}
