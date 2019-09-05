@@ -17,5 +17,14 @@
     background-color: #ffff99;
 }
 body.modal-open {
-    overflow: visible;
+    overflow: hidden;
+    position: fixed;
+}
+
+body.viewport-lg {
+    position: absolute; 
+}
+body {
+    overflow-x: hidden;
+    overflow-y: scroll !important;
 }
