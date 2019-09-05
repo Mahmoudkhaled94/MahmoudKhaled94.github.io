@@ -24,7 +24,3 @@ body.modal-open {
 body.viewport-lg {
     position: absolute; 
 }
-body {
-    overflow-x: hidden;
-    overflow-y: scroll !important;
-}
