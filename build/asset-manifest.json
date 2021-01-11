@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.75d44885.chunk.css",
-    "main.js": "/static/js/main.c2108478.chunk.js",
-    "main.js.map": "/static/js/main.c2108478.chunk.js.map",
+    "main.css": "/static/css/main.5b456124.chunk.css",
+    "main.js": "/static/js/main.a7eca1f4.chunk.js",
+    "main.js.map": "/static/js/main.a7eca1f4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.5351225d.chunk.css": "/static/css/2.5351225d.chunk.css",
     "static/js/2.97e65b5a.chunk.js": "/static/js/2.97e65b5a.chunk.js",
     "static/js/2.97e65b5a.chunk.js.map": "/static/js/2.97e65b5a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fa92befd174f95dc140b54d1e8a93c0d.js": "/precache-manifest.fa92befd174f95dc140b54d1e8a93c0d.js",
+    "precache-manifest.3a0eade5a9358f6d8bad2d46927e24d8.js": "/precache-manifest.3a0eade5a9358f6d8bad2d46927e24d8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.5351225d.chunk.css.map": "/static/css/2.5351225d.chunk.css.map",
-    "static/css/main.75d44885.chunk.css.map": "/static/css/main.75d44885.chunk.css.map",
+    "static/css/main.5b456124.chunk.css.map": "/static/css/main.5b456124.chunk.css.map",
     "static/js/2.97e65b5a.chunk.js.LICENSE.txt": "/static/js/2.97e65b5a.chunk.js.LICENSE.txt",
     "static/media/almaza.png": "/static/media/almaza.9c582dce.png",
     "static/media/almaza1.png": "/static/media/almaza1.c74ed7fd.png",
@@ -39,7 +39,7 @@
     "static/media/hyde4.jpg": "/static/media/hyde4.605ba389.jpg",
     "static/media/hyde5.jpg": "/static/media/hyde5.2cd1be66.jpg",
     "static/media/hyde6.jpg": "/static/media/hyde6.8b374bd6.jpg",
-    "static/media/ionicons.css": "/static/media/ionicons.621bd386.svg",
+    "static/media/ionicons.css": "/static/media/ionicons.c037dbbc.svg",
     "static/media/jinni.png": "/static/media/jinni.e3a5d81d.png",
     "static/media/jinni1.png": "/static/media/jinni1.b56bdeff.png",
     "static/media/jinni2.png": "/static/media/jinni2.cb08d0db.png",
@@ -74,7 +74,7 @@
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.5351225d.chunk.css",
     "static/js/2.97e65b5a.chunk.js",
-    "static/css/main.75d44885.chunk.css",
-    "static/js/main.c2108478.chunk.js"
+    "static/css/main.5b456124.chunk.css",
+    "static/js/main.a7eca1f4.chunk.js"
   ]
 }
