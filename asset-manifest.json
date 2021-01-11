@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mahmoudkhaled94.github.io/static/css/main.a2b670a4.chunk.css",
-    "main.js": "/Mahmoudkhaled94.github.io/static/js/main.54e19aab.chunk.js",
-    "main.js.map": "/Mahmoudkhaled94.github.io/static/js/main.54e19aab.chunk.js.map",
+    "main.js": "/Mahmoudkhaled94.github.io/static/js/main.9543e50d.chunk.js",
+    "main.js.map": "/Mahmoudkhaled94.github.io/static/js/main.9543e50d.chunk.js.map",
     "runtime-main.js": "/Mahmoudkhaled94.github.io/static/js/runtime-main.56b557ff.js",
     "runtime-main.js.map": "/Mahmoudkhaled94.github.io/static/js/runtime-main.56b557ff.js.map",
     "static/css/2.242f24fe.chunk.css": "/Mahmoudkhaled94.github.io/static/css/2.242f24fe.chunk.css",
     "static/js/2.26ffebda.chunk.js": "/Mahmoudkhaled94.github.io/static/js/2.26ffebda.chunk.js",
     "static/js/2.26ffebda.chunk.js.map": "/Mahmoudkhaled94.github.io/static/js/2.26ffebda.chunk.js.map",
     "index.html": "/Mahmoudkhaled94.github.io/index.html",
-    "precache-manifest.17a2557d23a147844e58efb52e4d865d.js": "/Mahmoudkhaled94.github.io/precache-manifest.17a2557d23a147844e58efb52e4d865d.js",
+    "precache-manifest.db98d80be6d6a8b60e5f80e0e4ee173e.js": "/Mahmoudkhaled94.github.io/precache-manifest.db98d80be6d6a8b60e5f80e0e4ee173e.js",
     "service-worker.js": "/Mahmoudkhaled94.github.io/service-worker.js",
     "static/css/2.242f24fe.chunk.css.map": "/Mahmoudkhaled94.github.io/static/css/2.242f24fe.chunk.css.map",
     "static/css/main.a2b670a4.chunk.css.map": "/Mahmoudkhaled94.github.io/static/css/main.a2b670a4.chunk.css.map",
@@ -45,7 +45,7 @@
     "static/media/jinni2.png": "/Mahmoudkhaled94.github.io/static/media/jinni2.cb08d0db.png",
     "static/media/jinni3.png": "/Mahmoudkhaled94.github.io/static/media/jinni3.d926eb59.png",
     "static/media/jinni4.png": "/Mahmoudkhaled94.github.io/static/media/jinni4.2cc74c07.png",
-    "static/media/male1.png": "/Mahmoudkhaled94.github.io/static/media/male1.9f9eefa2.png",
+    "static/media/male1.gif": "/Mahmoudkhaled94.github.io/static/media/male1.844fb0fb.gif",
     "static/media/myImage.png": "/Mahmoudkhaled94.github.io/static/media/myImage.bd80794f.png",
     "static/media/palm.png": "/Mahmoudkhaled94.github.io/static/media/palm.a40a6d14.png",
     "static/media/palm1.png": "/Mahmoudkhaled94.github.io/static/media/palm1.41576774.png",
@@ -75,6 +75,6 @@
     "static/css/2.242f24fe.chunk.css",
     "static/js/2.26ffebda.chunk.js",
     "static/css/main.a2b670a4.chunk.css",
-    "static/js/main.54e19aab.chunk.js"
+    "static/js/main.9543e50d.chunk.js"
   ]
 }
