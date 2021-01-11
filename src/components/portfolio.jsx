@@ -18,9 +18,9 @@ import palm5 from "../img/work/palm5.png";
 import palm6 from "../img/work/palm6.png";
 
 // sodic
-import sodic from "../img/work/sodic.jpg";
-import sodic1 from "../img/work/sodic1.jpg";
-import sodic2 from "../img/work/sodic2.jpg";
+import sodic from "../img/work/sodic.png";
+import sodic1 from "../img/work/sodic1.png";
+import sodic2 from "../img/work/sodic2.png";
 import sodic3 from "../img/work/sodic3.png";
 
 // almaza
@@ -35,7 +35,6 @@ import jinni from "../img/work/jinni.png";
 import jinni1 from "../img/work/jinni1.png";
 import jinni2 from "../img/work/jinni2.png";
 import jinni3 from "../img/work/jinni3.png";
-import jinni4 from "../img/work/jinni4.png";
 
 // hap
 import hap from "../img/work/hap.png";
@@ -71,6 +70,7 @@ import filey from "../img/work/filey.png";
 import filey1 from "../img/work/filey1.png";
 import filey2 from "../img/work/filey2.png";
 import filey3 from "../img/work/filey3.png";
+import filey4 from "../img/work/filey4.png";
 
 
 class Portfolio extends React.Component {
@@ -277,13 +277,6 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-                <a
-                  href={jinni4}
-                  data-lightbox="gallery-jinni"
-                  style={{ display: "none" }}
-                >
-                  jsx-a11y/anchor-has-content warning
-                </a>
               </div>
             </div>
             <div className="col-md-4">
@@ -336,6 +329,13 @@ class Portfolio extends React.Component {
                 </a>
                 <a
                   href={filey3}
+                  data-lightbox="gallery-filey"
+                  style={{ display: "none" }}
+                >
+                  jsx-a11y/anchor-has-content warning
+                </a>
+                <a
+                  href={filey4}
                   data-lightbox="gallery-filey"
                   style={{ display: "none" }}
                 >

@@ -28,7 +28,7 @@ class About extends React.Component {
         },
         {
           id: "Mysql_skill",
-          content: "My SQL",
+          content: "MySQL",
           porcentage: "80%",
           value: "80"
         },
