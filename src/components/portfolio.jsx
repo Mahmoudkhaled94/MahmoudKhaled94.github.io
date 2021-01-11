@@ -92,7 +92,7 @@ class Portfolio extends React.Component {
           <div className="row">
             <div className="col-md-4">
               <div className="work-box">
-                <a href={hyde} data-lightbox="gallery-vmarine">
+                <a href={hyde} data-lightbox="gallery-hyde">
                   <div className="work-img">
                     <img src={hyde} alt="" className="img-fluid" />
                   </div>
@@ -125,42 +125,42 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={hyde1}
-                  data-lightbox="gallery-vmarine"
+                  data-lightbox="gallery-hyde"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hyde2}
-                  data-lightbox="gallery-vmarine"
+                  data-lightbox="gallery-hyde"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hyde3}
-                  data-lightbox="gallery-vmarine"
+                  data-lightbox="gallery-hyde"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hyde4}
-                  data-lightbox="gallery-vmarine"
+                  data-lightbox="gallery-hyde"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hyde5}
-                  data-lightbox="gallery-vmarine"
+                  data-lightbox="gallery-hyde"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hyde6}
-                  data-lightbox="gallery-vmarine"
+                  data-lightbox="gallery-hyde"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -169,7 +169,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={sodic} data-lightbox="gallery-todo">
+                <a href={sodic} data-lightbox="gallery-sodic">
                   <div className="work-img">
                     <img src={sodic} alt="" className="img-fluid" />
                   </div>
@@ -202,21 +202,21 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={sodic1}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-sodic"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={sodic2}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-sodic"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={sodic3}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-sodic"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -225,7 +225,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={jinni} data-lightbox="gallery-todo">
+                <a href={jinni} data-lightbox="gallery-jinni">
                   <div className="work-img">
                     <img src={jinni} alt="" className="img-fluid" />
                   </div>
@@ -258,28 +258,28 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={jinni1}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-jinni"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={jinni2}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-jinni"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={jinni3}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-jinni"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={jinni4}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-jinni"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -288,7 +288,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={filey} data-lightbox="gallery-todo">
+                <a href={filey} data-lightbox="gallery-filey">
                   <div className="work-img">
                     <img src={filey} alt="" className="img-fluid" />
                   </div>
@@ -322,21 +322,21 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={filey1}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-filey"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={filey2}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-filey"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={filey3}
-                  data-lightbox="gallery-todo"
+                  data-lightbox="gallery-filey"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -345,7 +345,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={palm} data-lightbox="gallery-aguadeluz">
+                <a href={palm} data-lightbox="gallery-palm">
                   <div className="work-img">
                     <img src={palm} alt="" className="img-fluid" />
                   </div>
@@ -373,42 +373,42 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={palm1}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-palm"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={palm2}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-palm"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={palm3}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-palm"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={palm4}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-palm"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={palm5}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-palm"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={palm6}
-                  data-lightbox="gallery-aguadeluz"
+                  data-lightbox="gallery-palm"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -417,7 +417,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={almaza} data-lightbox="gallery-medlingos">
+                <a href={almaza} data-lightbox="gallery-almaza">
                   <div className="work-img">
                     <img src={almaza} alt="" className="img-fluid" />
                   </div>
@@ -443,28 +443,28 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={almaza1}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-almaza"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={almaza2}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-almaza"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={almaza3}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-almaza"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={almaza4}
-                  data-lightbox="gallery-medlingos"
+                  data-lightbox="gallery-almaza"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -473,7 +473,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={hap} data-lightbox="gallery-smth">
+                <a href={hap} data-lightbox="gallery-hap">
                   <div className="work-img">
                     <img src={hap} alt="" className="img-fluid" />
                   </div>
@@ -499,35 +499,35 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={hap1}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-hap"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hap2}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-hap"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hap3}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-hap"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hap4}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-hap"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={hap5}
-                  data-lightbox="gallery-smth"
+                  data-lightbox="gallery-hap"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -536,7 +536,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={sodicW} data-lightbox="gallery-mf">
+                <a href={sodicW} data-lightbox="gallery-sodicW">
                   <div className="work-img">
                     <img src={sodicW} alt="" className="img-fluid" />
                   </div>
@@ -562,28 +562,28 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={sodicW1}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-sodicW"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={sodicW2}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-sodicW"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={sodicW3}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-sodicW"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={sodicW4}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-sodicW"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -592,7 +592,7 @@ class Portfolio extends React.Component {
             </div>
             <div className="col-md-4">
               <div className="work-box">
-                <a href={paymob} data-lightbox="gallery-mf">
+                <a href={paymob} data-lightbox="gallery-paymob">
                   <div className="work-img">
                     <img src={paymob} alt="" className="img-fluid" />
                   </div>
@@ -618,35 +618,35 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={paymob1}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-paymob"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={paymob2}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-paymob"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={paymob3}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-paymob"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={paymob4}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-paymob"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={paymob5}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-paymob"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
@@ -681,21 +681,21 @@ class Portfolio extends React.Component {
                 </div>
                 <a
                   href={aps1}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-aps"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={aps2}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-aps"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
                   href={aps3}
-                  data-lightbox="gallery-mf"
+                  data-lightbox="gallery-aps"
                   style={{ display: "none" }}
                 >
                   jsx-a11y/anchor-has-content warning
