@@ -1,14 +1,14 @@
 import React from "react";
 import $ from "jquery";
 
-import logo1 from "../img/male1.png";
-import logo2 from "../img/male1.png";
+import logo1 from "../img/male1.gif";
+import logo2 from "../img/male1.gif";
 
 class Navbar extends React.Component {
   constructor() {
     super();
     this.state = {
-      logo: logo1
+      logo: "1"
     };
   }
 
@@ -39,7 +39,7 @@ class Navbar extends React.Component {
         document
           .querySelector(".navbar-expand-md")
           .classList.remove("navbar-trans");
-        this.setState({ logo: logo2 });
+        this.setState({ logo: "2" });
       } else {
         document
           .querySelector(".navbar-expand-md")
@@ -47,7 +47,7 @@ class Navbar extends React.Component {
         document
           .querySelector(".navbar-expand-md")
           .classList.remove("navbar-reduce");
-        this.setState({ logo: logo1 });
+        this.setState({ logo: "1" });
       }
     });
 
@@ -87,11 +87,20 @@ class Navbar extends React.Component {
       >
         <div className="container">
           <a className="navbar-brand js-scroll" href="#page-top">
-            <img
-              src={this.state.logo}
-              alt="logo"
-              style={{ maxWidth: "100px" }}
-            />
+            {this.state.logo == "1" ?
+              <img
+                src={logo1}
+                alt="logo"
+                style={{ maxWidth: "100px", "filter": "invert(100%)" }}
+              />
+              :
+              <img
+                src={logo2}
+                alt="logo"
+                style={{ maxWidth: "100px" }}
+              />
+            }
+
           </a>
           <button
             className="navbar-toggler collapsed"

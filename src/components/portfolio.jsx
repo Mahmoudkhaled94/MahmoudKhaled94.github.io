@@ -96,24 +96,33 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={hyde} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">Hyde Park</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS ReactNative.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">Hyde Park</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS ReactNative.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kijamii.hydepark'>
+                          <span className="ion-social-android"></span>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://apps.apple.com/us/app/hyde-park-community/id1464522488'>
+                          <span className="ion-social-apple"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={hyde1}
                   data-lightbox="gallery-vmarine"
@@ -164,24 +173,33 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={sodic} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">SODIC APP</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS ReactNative.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">SODIC APP</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS ReactNative.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kijamii.hydepark' >
+                          <span className="ion-social-android"></span>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://apps.apple.com/us/app/sodic-app/id1390362823#?platform=iphone' >
+                          <span className="ion-social-apple"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={sodic1}
                   data-lightbox="gallery-todo"
@@ -211,24 +229,33 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={jinni} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">Jinni APP</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS ReactNative.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">Jinni APP</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS ReactNative.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.jinni&hl=en&gl=US'>
+                          <span className="ion-social-android"></span>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://apps.apple.com/eg/app/jinni-services/id1450754451'>
+                          <span className="ion-social-apple"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={jinni1}
                   data-lightbox="gallery-todo"
@@ -265,24 +292,34 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={filey} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">Filey APP</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS ReactNative.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">Filey APP</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS ReactNative.
                           </span>
-                        </div>
-                      </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
                       </div>
                     </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kijamii.filey&hl=en&gl=US'>
+                          <span className="ion-social-android"></span>
+                        </a>
+                      </div>
+                    </div>
+                    <div className="col-sm-2">
+                      <div className="w-like">
+                        <a target="_blank" href='https://apps.apple.com/us/app/filey/id1354645184'>
+                          <span className="ion-social-apple"></span>
+                        </a>
+                      </div>
+                    </div>
+
                   </div>
-                </a>
+                </div>
                 <a
                   href={filey1}
                   data-lightbox="gallery-todo"
@@ -306,36 +343,34 @@ class Portfolio extends React.Component {
                 </a>
               </div>
             </div>
-
             <div className="col-md-4">
               <div className="work-box">
                 <a href={palm} data-lightbox="gallery-aguadeluz">
                   <div className="work-img">
                     <img src={palm} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">
-                          <a href="google.com" target="_blank">
-                          </a>
-                            PalmHills
-
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">
+                        PalmHills
                         </h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            PHP MySQL ReactJS NextJS.
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          PHP MySQL ReactJS NextJS.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <div className="w-like">
+                        <a href="https://www.palmhillsdevelopments.com/" target="_blank">
+                          <span className="ion-android-open"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={palm1}
                   data-lightbox="gallery-aguadeluz"
@@ -380,31 +415,32 @@ class Portfolio extends React.Component {
                 </a>
               </div>
             </div>
-
             <div className="col-md-4">
               <div className="work-box">
                 <a href={almaza} data-lightbox="gallery-medlingos">
                   <div className="work-img">
                     <img src={almaza} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">Almaza Bay Website</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            PHP MySQL HTML5 jquery.
-                          </span>
-                        </div>
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">Almaza Bay Website</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          PHP MySQL HTML5 jquery.
+                        </span>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <div className="w-like">
+                        <a href="https://almazabay.com/" target="_blank">
+                          <span className="ion-android-open"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={almaza1}
                   data-lightbox="gallery-medlingos"
@@ -441,24 +477,26 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={hap} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">HAP</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            PHP MySQL HTML5 jquery.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">HAP</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          PHP MySQL HTML5 jquery.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <div className="w-like">
+                        <a href="https://hap.com.eg/" target="_blank">
+                          <span className="ion-android-open"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={hap1}
                   data-lightbox="gallery-smth"
@@ -502,24 +540,26 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={sodicW} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">SODIC WEB</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS NextJS.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">SODIC WEB</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS NextJS.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <div className="w-like">
+                        <a href="https://sodic.wmca.cloud/" target="_blank">
+                          <span className="ion-android-open"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={sodicW1}
                   data-lightbox="gallery-mf"
@@ -556,24 +596,26 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={paymob} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">Paymob</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS NextJS.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">Paymob</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS NextJS.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <div className="w-like">
+                        <a href="https://paymob.com/" target="_blank">
+                          <span className="ion-android-open"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={paymob1}
                   data-lightbox="gallery-mf"
@@ -617,24 +659,26 @@ class Portfolio extends React.Component {
                   <div className="work-img">
                     <img src={aps} alt="" className="img-fluid" />
                   </div>
-                  <div className="work-content">
-                    <div className="row">
-                      <div className="col-sm-8">
-                        <h2 className="w-title">APS</h2>
-                        <div className="w-more">
-                          <span className="w-ctegory">
-                            lumen MySQL ReactJS NextJS.
+                </a>
+                <div className="work-content">
+                  <div className="row">
+                    <div className="col-sm-8">
+                      <h2 className="w-title">APS</h2>
+                      <div className="w-more">
+                        <span className="w-ctegory">
+                          lumen MySQL ReactJS NextJS.
                           </span>
-                        </div>
                       </div>
-                      <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+                    </div>
+                    <div className="col-sm-4">
+                      <div className="w-like">
+                        <a href="https://aps.aucegypt.edu/en" target="_blank">
+                          <span className="ion-android-open"></span>
+                        </a>
                       </div>
                     </div>
                   </div>
-                </a>
+                </div>
                 <a
                   href={aps1}
                   data-lightbox="gallery-mf"
@@ -656,7 +700,6 @@ class Portfolio extends React.Component {
                 >
                   jsx-a11y/anchor-has-content warning
                 </a>
-
               </div>
             </div>
           </div>
