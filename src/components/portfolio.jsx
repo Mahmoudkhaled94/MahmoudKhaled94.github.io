@@ -303,13 +303,13 @@ class Portfolio extends React.Component {
                         </a>
                       </div>
                     </div>
-                    <div className="col-sm-2">
+                    {/* <div className="col-sm-2">
                       <div className="w-like">
                         <a target="_blank" href='https://apps.apple.com/us/app/filey/id1354645184'>
                           <span className="ion-social-apple"></span>
                         </a>
                       </div>
-                    </div>
+                    </div> */}
 
                   </div>
                 </div>
