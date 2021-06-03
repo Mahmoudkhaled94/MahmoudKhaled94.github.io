@@ -1,26 +1,26 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a482d2a65302de61aa7dc292bf06ee51",
+    "revision": "a32db11ba84a2bf6310989a248fbadfa",
     "url": "/Mahmoudkhaled94.github.io/index.html"
   },
   {
-    "revision": "d8508edf0bccb4ae8499",
-    "url": "/Mahmoudkhaled94.github.io/static/css/2.7629d57d.chunk.css"
+    "revision": "aaac52796a4161e9e184",
+    "url": "/Mahmoudkhaled94.github.io/static/css/2.51ae9597.chunk.css"
   },
   {
-    "revision": "bfb9f67f952d6e26e944",
-    "url": "/Mahmoudkhaled94.github.io/static/css/main.c24a5694.chunk.css"
+    "revision": "42c2616a0583f0c705ed",
+    "url": "/Mahmoudkhaled94.github.io/static/css/main.ad4b94df.chunk.css"
   },
   {
-    "revision": "d8508edf0bccb4ae8499",
-    "url": "/Mahmoudkhaled94.github.io/static/js/2.97e65b5a.chunk.js"
+    "revision": "aaac52796a4161e9e184",
+    "url": "/Mahmoudkhaled94.github.io/static/js/2.0e6ef548.chunk.js"
   },
   {
-    "revision": "e9875d7c1187f4f0558e7fbac051f48d",
-    "url": "/Mahmoudkhaled94.github.io/static/js/2.97e65b5a.chunk.js.LICENSE.txt"
+    "revision": "8db2ae7ab4d8b47464b2fceb420c9eb7",
+    "url": "/Mahmoudkhaled94.github.io/static/js/2.0e6ef548.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bfb9f67f952d6e26e944",
+    "revision": "42c2616a0583f0c705ed",
     "url": "/Mahmoudkhaled94.github.io/static/js/main.95f5119d.chunk.js"
   },
   {
