@@ -22,7 +22,7 @@ class Intro extends React.Component {
                     strings={[
                       "Software Engineer",
                       "Back End Developer",
-                      "Front End Developer"
+                      "Front End Developer",
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -44,7 +44,9 @@ class Intro extends React.Component {
                 <a
                   className="btn btn-primary btn  px-4"
                   role="button"
-                  href="/resume/mahmoud_khaled.pdf" download>
+                  href="/resume/mahmoud_khaled.pdf"
+                  download
+                >
                   Download my Resume
                 </a>
               </p>

@@ -1,13 +1,15 @@
-import React from 'react';
-import $ from 'jquery';
+import React from "react";
+import $ from "jquery";
 
 class Preloader extends React.Component {
   componentDidMount() {
-    $(window).on('load', function () {
-      if ($('#preloader').length) {
-        $('#preloader').delay(100).fadeOut('slow', function () {
-          $(this).remove();
-        });
+    $(window).on("load", function () {
+      if ($("#preloader").length) {
+        $("#preloader")
+          .delay(100)
+          .fadeOut("slow", function () {
+            $(this).remove();
+          });
       }
     });
   }
@@ -18,6 +20,3 @@ class Preloader extends React.Component {
 }
 
 export default Preloader;
-
-
-

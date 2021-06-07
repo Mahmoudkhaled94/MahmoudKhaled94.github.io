@@ -72,7 +72,6 @@ import filey2 from "../img/work/filey2.png";
 import filey3 from "../img/work/filey3.png";
 import filey4 from "../img/work/filey4.png";
 
-
 class Portfolio extends React.Component {
   render() {
     return (
@@ -104,19 +103,25 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS ReactNative.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kijamii.hydepark'>
+                        <a
+                          target="_blank"
+                          href="https://play.google.com/store/apps/details?id=com.kijamii.hydepark"
+                        >
                           <span className="ion-social-android"></span>
                         </a>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://apps.apple.com/us/app/hyde-park-community/id1464522488'>
+                        <a
+                          target="_blank"
+                          href="https://apps.apple.com/us/app/hyde-park-community/id1464522488"
+                        >
                           <span className="ion-social-apple"></span>
                         </a>
                       </div>
@@ -181,19 +186,25 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS ReactNative.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kijamii.hydepark' >
+                        <a
+                          target="_blank"
+                          href="https://play.google.com/store/apps/details?id=com.kijamii.hydepark"
+                        >
                           <span className="ion-social-android"></span>
                         </a>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://apps.apple.com/us/app/sodic-app/id1390362823#?platform=iphone' >
+                        <a
+                          target="_blank"
+                          href="https://apps.apple.com/us/app/sodic-app/id1390362823#?platform=iphone"
+                        >
                           <span className="ion-social-apple"></span>
                         </a>
                       </div>
@@ -237,19 +248,25 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS ReactNative.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.jinni&hl=en&gl=US'>
+                        <a
+                          target="_blank"
+                          href="https://play.google.com/store/apps/details?id=com.jinni&hl=en&gl=US"
+                        >
                           <span className="ion-social-android"></span>
                         </a>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://apps.apple.com/eg/app/jinni-services/id1450754451'>
+                        <a
+                          target="_blank"
+                          href="https://apps.apple.com/eg/app/jinni-services/id1450754451"
+                        >
                           <span className="ion-social-apple"></span>
                         </a>
                       </div>
@@ -293,12 +310,15 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS ReactNative.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-2">
                       <div className="w-like">
-                        <a target="_blank" href='https://play.google.com/store/apps/details?id=com.kijamii.filey&hl=en&gl=US'>
+                        <a
+                          target="_blank"
+                          href="https://play.google.com/store/apps/details?id=com.kijamii.filey&hl=en&gl=US"
+                        >
                           <span className="ion-social-android"></span>
                         </a>
                       </div>
@@ -310,7 +330,6 @@ class Portfolio extends React.Component {
                         </a>
                       </div>
                     </div> */}
-
                   </div>
                 </div>
                 <a
@@ -353,18 +372,19 @@ class Portfolio extends React.Component {
                 <div className="work-content">
                   <div className="row">
                     <div className="col-sm-8">
-                      <h2 className="w-title">
-                        PalmHills
-                        </h2>
+                      <h2 className="w-title">PalmHills</h2>
                       <div className="w-more">
                         <span className="w-ctegory">
                           PHP MySQL ReactJS NextJS.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">
                       <div className="w-like">
-                        <a href="https://www.palmhillsdevelopments.com/" target="_blank">
+                        <a
+                          href="https://www.palmhillsdevelopments.com/"
+                          target="_blank"
+                        >
                           <span className="ion-android-open"></span>
                         </a>
                       </div>
@@ -485,7 +505,7 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           PHP MySQL HTML5 jquery.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">
@@ -548,7 +568,7 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS NextJS.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">
@@ -604,7 +624,7 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS NextJS.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">
@@ -667,7 +687,7 @@ class Portfolio extends React.Component {
                       <div className="w-more">
                         <span className="w-ctegory">
                           lumen MySQL ReactJS NextJS.
-                          </span>
+                        </span>
                       </div>
                     </div>
                     <div className="col-sm-4">

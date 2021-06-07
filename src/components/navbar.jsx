@@ -8,7 +8,7 @@ class Navbar extends React.Component {
   constructor() {
     super();
     this.state = {
-      logo: "1"
+      logo: "1",
     };
   }
 
@@ -24,7 +24,7 @@ class Navbar extends React.Component {
 
     $("body").scrollspy({
       target: "#mainNav",
-      offset: navHeight
+      offset: navHeight,
     });
 
     $(".js-scroll").on("click", function () {
@@ -54,7 +54,7 @@ class Navbar extends React.Component {
     $('a.js-scroll[href*="#"]:not([href="#"])').on("click", function () {
       if (
         window.location.pathname.replace(/^\//, "") ===
-        this.pathname.replace(/^\//, "") &&
+          this.pathname.replace(/^\//, "") &&
         window.location.hostname === this.hostname
       ) {
         var target = $(this.hash);
@@ -64,7 +64,7 @@ class Navbar extends React.Component {
         if (target.length) {
           $("html, body").animate(
             {
-              scrollTop: target.offset().top - navHeight + 5
+              scrollTop: target.offset().top - navHeight + 5,
             },
             1000,
             "easeInExpo"
@@ -87,20 +87,15 @@ class Navbar extends React.Component {
       >
         <div className="container">
           <a className="navbar-brand js-scroll" href="#page-top">
-            {this.state.logo == "1" ?
+            {this.state.logo == "1" ? (
               <img
                 src={logo1}
                 alt="logo"
-                style={{ maxWidth: "100px", "filter": "invert(100%)" }}
+                style={{ maxWidth: "100px", filter: "invert(100%)" }}
               />
-              :
-              <img
-                src={logo2}
-                alt="logo"
-                style={{ maxWidth: "100px" }}
-              />
-            }
-
+            ) : (
+              <img src={logo2} alt="logo" style={{ maxWidth: "100px" }} />
+            )}
           </a>
           <button
             className="navbar-toggler collapsed"

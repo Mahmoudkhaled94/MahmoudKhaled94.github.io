@@ -109,11 +109,24 @@ class Contact extends React.Component {
                           <br />
                           Simply fill the from and send me an email.
                         </p>
-                        <ul class="list-ico">
-                          <li><span class="ion-ios-location"></span>Alexandria, Egypt (willing to relocate)</li>
-                          <li><span class="ion-ios-telephone"></span>+20128 778 9415</li>
-                          <li><span class="ion-email"></span><a style={{ color: "#0039cb" }}
-                            href="mailto:Mahmoud.Khald.Nabawy@gmail.com">Mahmoud.Khald.Nabawy@gmail.com</a></li>
+                        <ul className="list-ico">
+                          <li>
+                            <span className="ion-ios-location"></span>
+                            Alexandria, Egypt (willing to relocate)
+                          </li>
+                          <li>
+                            <span className="ion-ios-telephone"></span>+20128
+                            778 9415
+                          </li>
+                          <li>
+                            <span className="ion-email"></span>
+                            <a
+                              style={{ color: "#0039cb" }}
+                              href="mailto:Mahmoud.Khald.Nabawy@gmail.com"
+                            >
+                              Mahmoud.Khald.Nabawy@gmail.com
+                            </a>
+                          </li>
                         </ul>
                       </div>
                       <div className="socials">
@@ -153,13 +166,12 @@ class Contact extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-sm-12">
-                <div className="copyright-box">
-                </div>
+                <div className="copyright-box"></div>
               </div>
             </div>
           </div>
         </footer>
-      </section >
+      </section>
     );
   }
 }
