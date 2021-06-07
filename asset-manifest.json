@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Mahmoudkhaled94.github.io/static/css/main.ad4b94df.chunk.css",
-    "main.js": "/Mahmoudkhaled94.github.io/static/js/main.95f5119d.chunk.js",
-    "main.js.map": "/Mahmoudkhaled94.github.io/static/js/main.95f5119d.chunk.js.map",
+    "main.css": "/Mahmoudkhaled94.github.io/static/css/main.9d912ea2.chunk.css",
+    "main.js": "/Mahmoudkhaled94.github.io/static/js/main.633bfa85.chunk.js",
+    "main.js.map": "/Mahmoudkhaled94.github.io/static/js/main.633bfa85.chunk.js.map",
     "runtime-main.js": "/Mahmoudkhaled94.github.io/static/js/runtime-main.807172a5.js",
     "runtime-main.js.map": "/Mahmoudkhaled94.github.io/static/js/runtime-main.807172a5.js.map",
-    "static/css/2.51ae9597.chunk.css": "/Mahmoudkhaled94.github.io/static/css/2.51ae9597.chunk.css",
-    "static/js/2.0e6ef548.chunk.js": "/Mahmoudkhaled94.github.io/static/js/2.0e6ef548.chunk.js",
-    "static/js/2.0e6ef548.chunk.js.map": "/Mahmoudkhaled94.github.io/static/js/2.0e6ef548.chunk.js.map",
+    "static/css/2.f6122f81.chunk.css": "/Mahmoudkhaled94.github.io/static/css/2.f6122f81.chunk.css",
+    "static/js/2.90516cfd.chunk.js": "/Mahmoudkhaled94.github.io/static/js/2.90516cfd.chunk.js",
+    "static/js/2.90516cfd.chunk.js.map": "/Mahmoudkhaled94.github.io/static/js/2.90516cfd.chunk.js.map",
     "index.html": "/Mahmoudkhaled94.github.io/index.html",
-    "precache-manifest.f17ce8598d3a7f1ce0e9534c763e2d7a.js": "/Mahmoudkhaled94.github.io/precache-manifest.f17ce8598d3a7f1ce0e9534c763e2d7a.js",
+    "precache-manifest.00d7b7a3dc0dea7dba9e6f6487f674ec.js": "/Mahmoudkhaled94.github.io/precache-manifest.00d7b7a3dc0dea7dba9e6f6487f674ec.js",
     "service-worker.js": "/Mahmoudkhaled94.github.io/service-worker.js",
-    "static/css/2.51ae9597.chunk.css.map": "/Mahmoudkhaled94.github.io/static/css/2.51ae9597.chunk.css.map",
-    "static/css/main.ad4b94df.chunk.css.map": "/Mahmoudkhaled94.github.io/static/css/main.ad4b94df.chunk.css.map",
-    "static/js/2.0e6ef548.chunk.js.LICENSE.txt": "/Mahmoudkhaled94.github.io/static/js/2.0e6ef548.chunk.js.LICENSE.txt",
+    "static/css/2.f6122f81.chunk.css.map": "/Mahmoudkhaled94.github.io/static/css/2.f6122f81.chunk.css.map",
+    "static/css/main.9d912ea2.chunk.css.map": "/Mahmoudkhaled94.github.io/static/css/main.9d912ea2.chunk.css.map",
+    "static/js/2.90516cfd.chunk.js.LICENSE.txt": "/Mahmoudkhaled94.github.io/static/js/2.90516cfd.chunk.js.LICENSE.txt",
     "static/media/almaza.png": "/Mahmoudkhaled94.github.io/static/media/almaza.53dd7de4.png",
     "static/media/almaza1.png": "/Mahmoudkhaled94.github.io/static/media/almaza1.9c582dce.png",
     "static/media/almaza2.png": "/Mahmoudkhaled94.github.io/static/media/almaza2.afd31fc8.png",
@@ -75,9 +75,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.807172a5.js",
-    "static/css/2.51ae9597.chunk.css",
-    "static/js/2.0e6ef548.chunk.js",
-    "static/css/main.ad4b94df.chunk.css",
-    "static/js/main.95f5119d.chunk.js"
+    "static/css/2.f6122f81.chunk.css",
+    "static/js/2.90516cfd.chunk.js",
+    "static/css/main.9d912ea2.chunk.css",
+    "static/js/main.633bfa85.chunk.js"
   ]
 }
